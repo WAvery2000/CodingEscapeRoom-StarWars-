@@ -30,8 +30,8 @@ export const puzzles =
     5: {
         title: "Escape",
         description: "There should be a floor plan somewhere. Take a look at it and let me know what path you need to take to get out so I can check that it is all clear.",
-        solution: ["right, right, left, right, right, left, left, right, left, right, right, left, right, left, right, right, left, right, left, right, left"],
-        res: "left/right, left/right, left/right, ..."
+        solution: ["r,r,l,r,r,l,l,r,l,r,r,l,r,l,r,r,l,r,l,r,l"],
+        res: "l/r, l/r, l/r, ..."
     },
     6: {
         title: "Just Like the Simulations",
