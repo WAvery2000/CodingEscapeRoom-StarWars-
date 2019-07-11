@@ -2,13 +2,13 @@ export const puzzles =
 {
     1: {
         title: "Access the Mainframe",
-        description: "According to my intel, that cell has a panel that can be removed to allow access to the security mainframe. Find the panel, and decipher the code for accessing the mainframe.",
+        description: "According to my intel, that cell has a panel that can be removed to allow access to the security mainframe. Find the panel, decipher the code, and open the first lock.",
         solution: ["3923"],
         res: '4-Digit Code'
     },
     2: {
         title: "Pass the Security Check",
-        description: "It seems that we have to pass a security check to break into the lock. The password is the binary representation of some number. I have attached the binary representation of ‘13’ to show how it works. Good luck!",
+        description: "It seems that we have to pass a security check to break into the lock. The password is the binary representation of ‘66’. I have attached the binary representation of ‘13’ to show how it works. Good luck!",
         solution: ["1000010"],
         img: "https://res.cloudinary.com/ds3w3iwbk/image/upload/v1558098970/Binary.jpg",
         res: "Binary Code"
@@ -21,17 +21,17 @@ export const puzzles =
         res: "c:\\_ _ _ _ _\\_ _ _ _ _\\_ _ _ _ _\\_ _ _ _ _"
     },
     4: {
-        title: "Decrypt the File to Find the Password",
-        description: "The file seems to be encrypted. Decrypt the file and find your cell’s password, so we can get you out of there.",
-        solution: ["8327"],
-        img: "https://res.cloudinary.com/dnmity2ao/image/upload/v1562830300/Escape%20Room/escape_room_final_ia2lws.png",
-        res: "4-Digit Code",
+        title: "Decrypt the File",
+        description: "The file seems to be encrypted. Decrypt the file and find your cell’s password, so we can unlock the last lock and get you out of there.",
+        solution: ["2926"],
+        img: "https://res.cloudinary.com/dnmity2ao/image/upload/v1562836861/Escape%20Room/escape_room_bibf_dggjjj.png",
+        res: "4-Digit Code"
     },
     5: {
         title: "Escape",
         description: "There should be a floor plan somewhere. Take a look at it and let me know what path you need to take to get out so I can check that it is all clear.",
         solution: ["right, right, left, right, right, left, left, right, left, right, right, left, right, left, right, right, left, right, left, right, left"],
-        res: "left/right, left/right, left/right, ...",
+        res: "left/right, left/right, left/right, ..."
     },
     6: {
         title: "Just Like the Simulations",
