@@ -21,7 +21,7 @@ export const puzzles =
         res: "c:\\_ _ _ _ _\\_ _ _ _ _\\_ _ _ _ _\\_ _ _ _ _"
     },
     4: {
-        title: "Decrypt the File",
+        title: "Decrypt the File to Find the Password",
         description: "The file seems to be encrypted. Decrypt the file and find your cell’s password, so we can get you out of there.",
         solution: ["8327"],
         img: "https://res.cloudinary.com/dnmity2ao/image/upload/v1562830300/Escape%20Room/escape_room_final_ia2lws.png",
