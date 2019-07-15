@@ -28,12 +28,6 @@ export const puzzles =
         res: "4-Digit Code"
     },
     5: {
-        title: "Escape",
-        description: "There should be a floor plan somewhere. Take a look at it and let me know what path you need to take to get out so I can check that it is all clear.",
-        solution: ["r,r,l,r,r,l,l,r,l,r,r,l,r,l,r,r,l,r,l,r,l"],
-        res: "l/r, l/r, l/r, ..."
-    },
-    6: {
         title: "Just Like the Simulations",
         description: "Alright soldier, good work. Time to assess how fast you finished this simulation. Enter your time in minutes and seconds below.",
         solution: ["test"],
