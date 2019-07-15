@@ -22,7 +22,7 @@ export const puzzles =
     },
     4: {
         title: "Decrypt the File",
-        description: "The file seems to be encrypted. Decrypt the file and find your cell’s password, so we can unlock the last lock and get you out of there.",
+        description: "The file seems to be encrypted. Decrypt the file and find your cell’s password, so we can get you out of there.",
         solution: ["2926"],
         img: "https://res.cloudinary.com/dnmity2ao/image/upload/v1562841810/Escape%20Room/escaperoomfinal_xcwux0.png",
         res: "4-Digit Code"
